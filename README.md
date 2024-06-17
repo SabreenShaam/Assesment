@@ -350,7 +350,7 @@
     }
 }`
 
-2) View Player List(Paginated)
+2) View Player List (Paginated)
 - endpoint
 - `http://127.0.0.1:8000/player` or `http://127.0.0.1:8000/player?page=1`
 - Request Curl
@@ -491,7 +491,7 @@
     ]
 }`
 
-5) View Team List(Paginated)
+5) View Team List (Paginated)
 - endpoint
 - `http://127.0.0.1:8000/team` or `http://127.0.0.1:8000/team?page=1`
 - Request Curl
